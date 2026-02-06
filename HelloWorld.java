@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class HelloWorld {
+public class String Operations {
 
-    public static void main(String[] args) {
+    public static void main(String[] Arya) {
         Scanner scanner = new Scanner(System.in);
         // We define the base string with extra spaces to demonstrate trim()
         String baseString = "   Hello Dear, How are you doing   ";
@@ -133,4 +133,5 @@ public class HelloWorld {
         
         scanner.close();
     }
+
 }
